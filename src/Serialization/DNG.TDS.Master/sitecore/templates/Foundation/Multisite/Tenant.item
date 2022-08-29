@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {93EBCD14-7566-4111-A262-1F91F6B62F86}
+database: master
+path: /sitecore/templates/Foundation/Multisite/Tenant
+parent: {3C00E8D1-BB02-4479-AAE8-48D942D2A8E8}
+name: Tenant
+master: {00000000-0000-0000-0000-000000000000}
+template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
+templatekey: Template
+created: 20190724T193920Z
+
+----field----
+field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
+name: __Base template
+key: __base template
+content-length: 38
+
+{1930BBEB-7805-471A-A3BE-4858AC7CF696}
+----field----
+field: {F7D48A55-2158-4F02-9356-756654404F73}
+name: __Standard values
+key: __standard values
+content-length: 38
+
+{39D62E2B-4280-42FC-9601-4809D5505AA0}
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 33
+
+office/32x32/office_building2.png
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 77
+
+{E269FBB5-3750-427A-9149-7AA950B49301}|{F646954A-7932-479F-B00E-3B3FE324915C}
+----version----
+language: en
+version: 1
+revision: bf449c52-ef27-487a-8e56-e2f213fc5301
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190724T193920Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bf449c52-ef27-487a-8e56-e2f213fc5301
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190725T004301Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

@@ -1,0 +1,42 @@
+{
+  "namespace": "DNG.Serialization.Master.Content.Delta.Module",
+  "references": [],
+  "items": {
+    "includes": [
+
+      {
+        "name": "DNG-Content",
+        "path": "/sitecore/content",
+        "database": "master",
+        "rules": [
+          {
+            "path": "/DevOpsNextGen",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateUpdateAndDelete"
+          },
+          {
+            "path": "*",
+            "scope": "ignored"
+          }
+        ]
+      },
+      {
+        "name": "Media Library",
+        "path": "/sitecore/Media Library/Images",
+        "database": "master",
+        "rules": [
+          {
+            "path": "/DNG",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateUpdateAndDelete"
+          },
+          {
+            "path": "*",
+            "scope": "ignored"
+          }
+        ]
+      }
+
+    ]
+  }
+}

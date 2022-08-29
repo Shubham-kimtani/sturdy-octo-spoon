@@ -1,0 +1,145 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Project-Templates\Project\DNG.yml
+ID: "f832cdfc-4ef8-4e19-8e20-82d6236894fd"
+Parent: "825b30b4-b40b-422e-9920-23a1b6bda89c"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/DNG
+Signature: 7AwiSY+StG6mRi510aFZmOSWudI1n5L6pumXscpyHtY=
+Modified: 637934829054669878
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Project-Templates\Project.yml
+ID: "825b30b4-b40b-422e-9920-23a1b6bda89c"
+Parent: "3c1715fe-6a13-4fcf-845f-de308ba9741d"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project
+Signature: AL+sSwnU36SDQEqmDLcrDiAEes/5P1otV1QfKisydY0=
+Modified: 637934829054558525
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Project-Templates\Project\DNG\Home.yml
+ID: "6f36b575-538b-4c24-a95a-bf6b72f3420f"
+Parent: "f832cdfc-4ef8-4e19-8e20-82d6236894fd"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/DNG/Home
+Signature: fLd0fFL8hEE2KBy1CyxVFEneJWN/Yk/f+W5RUwRqOgs=
+Modified: 637934829054975549
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Project-Templates\Project\DNG\Content Page.yml
+ID: "dc4f2946-4307-4f48-ba78-e5daa509f11b"
+Parent: "f832cdfc-4ef8-4e19-8e20-82d6236894fd"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/DNG/Content Page
+Signature: vdXCHZBmM5ovPp7ULDyb5Mq9zVZvLq40moDwNldL5+4=
+Modified: 637934829054875939
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Project-Templates\Project\DNG\Content Page\__Standard Values.yml
+ID: "b1a97a33-17b8-4287-a594-8a99942281f5"
+Parent: "dc4f2946-4307-4f48-ba78-e5daa509f11b"
+Template: "dc4f2946-4307-4f48-ba78-e5daa509f11b"
+Path: /sitecore/templates/Project/DNG/Content Page/__Standard Values
+Signature: QgCix/VfjVWwtJ0I+K2/SEyycYK1qUMYdZSEltdAD7w=
+Modified: 637934829055175700
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Project-Templates\Project\DNG\_Page Base.yml
+ID: "217e5fce-c6d7-44a5-b774-90b9a7cd7ccd"
+Parent: "f832cdfc-4ef8-4e19-8e20-82d6236894fd"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/DNG/_Page Base
+Signature: 3y8wN63bNPFA3YwtP8K8ZoIasPkdGdn2/b1C7LRWmxw=
+Modified: 637934829055077463
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Project-Templates\Project\DNG\_Page Base\Basic Info.yml
+ID: "d966c0e5-2567-49b3-bc11-c795dc62700d"
+Parent: "217e5fce-c6d7-44a5-b774-90b9a7cd7ccd"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/DNG/_Page Base/Basic Info
+Signature: buhCEdDzjhv8E5Wvp6XoI2nC9spaMkVwdM9qNVabBTY=
+Modified: 637934829055381174
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Project-Templates\Project\DNG\Home\__Standard Values.yml
+ID: "f5c7d25f-1a17-4f95-b4f2-9c6da3bd16be"
+Parent: "6f36b575-538b-4c24-a95a-bf6b72f3420f"
+Template: "6f36b575-538b-4c24-a95a-bf6b72f3420f"
+Path: /sitecore/templates/Project/DNG/Home/__Standard Values
+Signature: uuyg7NfVGfBM0oWNhcDFGalp62vOod1ICW3jj+Fp3RE=
+Modified: 637934829055277940
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Project-Templates\Project\DNG\_Page Base\__Standard Values.yml
+ID: "162485a8-3cdc-40cf-8c7a-1eb3bb5442a0"
+Parent: "217e5fce-c6d7-44a5-b774-90b9a7cd7ccd"
+Template: "217e5fce-c6d7-44a5-b774-90b9a7cd7ccd"
+Path: /sitecore/templates/Project/DNG/_Page Base/__Standard Values
+Signature: adjFaQk2XEhE2lthdebMiDV8X8guCtU41pd/qHCkjQ8=
+Modified: 637934829055471100
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Project-Templates\Project\DNG\_Page Base\WDP GitHub.yml
+ID: "f2ae7ae9-12af-4f79-9947-dda37b6d485e"
+Parent: "217e5fce-c6d7-44a5-b774-90b9a7cd7ccd"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/DNG/_Page Base/WDP GitHub
+Signature: xff0yREw2DBpADyuUAMrvLiHwN/sJuvaVShznXK8Khs=
+Modified: 637934829055574652
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Project-Templates\Project\DNG\_Page Base\Basic Info\Page Content.yml
+ID: "3b84f0f9-4ba7-4bac-976f-5570736c06da"
+Parent: "d966c0e5-2567-49b3-bc11-c795dc62700d"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/DNG/_Page Base/Basic Info/Page Content
+Signature: ilyQvO1I300+zTlo7jmSLtBD7PxzNflKkqMEmLREODU=
+Modified: 637934829055781144
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Project-Templates\Project\DNG\_Page Base\Basic Info\DemoForARM.yml
+ID: "ab365e08-9498-47ef-adda-043b08398762"
+Parent: "d966c0e5-2567-49b3-bc11-c795dc62700d"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/DNG/_Page Base/Basic Info/DemoForARM
+Signature: /imt8oomP06rVI0mpUTDEXfKEfo7SQw40D59LEhJd+o=
+Modified: 637934829056080863
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Project-Templates\Project\DNG\_Page Base\Basic Info\Page Title.yml
+ID: "49095396-5900-4fca-bea9-e304285ea1e4"
+Parent: "d966c0e5-2567-49b3-bc11-c795dc62700d"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/DNG/_Page Base/Basic Info/Page Title
+Signature: GoO/NGyIOhc3mpSnJtfEVx8+Rv4MnqVJfY/sxMQw4ZA=
+Modified: 637934829055681684
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Project-Templates\Project\DNG\_Page Base\Basic Info\Page SubDescription.yml
+ID: "cfda20be-97a5-43ad-a225-f9d077ad4e32"
+Parent: "d966c0e5-2567-49b3-bc11-c795dc62700d"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/DNG/_Page Base/Basic Info/Page SubDescription
+Signature: ncMPR2JB45RI6yVtqD1lRRlKz6rq0Ovn9xGFjXFC1rs=
+Modified: 637934829055880928
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Project-Templates\Project\DNG\_Page Base\WDP GitHub\DeploymentNumber.yml
+ID: "4f8478c3-cd6d-4a63-8577-243470ad5a6d"
+Parent: "f2ae7ae9-12af-4f79-9947-dda37b6d485e"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/DNG/_Page Base/WDP GitHub/DeploymentNumber
+Signature: 3+Ohtqdy4eCcouHzIX9tVBz0t/oloU23qTdD3fm4sQg=
+Modified: 637934829056180880
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Project-Templates\Project\DNG\_Page Base\Basic Info\ReleaseNumber.yml
+ID: "dbbbfb23-fee7-4d81-881f-7a8717adcd7c"
+Parent: "d966c0e5-2567-49b3-bc11-c795dc62700d"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/DNG/_Page Base/Basic Info/ReleaseNumber
+Signature: YOdfBn2xQeRDn/HvyPkM/8FF61nvhYrVRIQVefVnkPY=
+Modified: 637934829055989904

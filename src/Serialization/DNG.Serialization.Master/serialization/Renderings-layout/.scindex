@@ -1,0 +1,55 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Renderings-layout\Renderings\Feature.yml
+ID: "da61ad50-8fdb-4252-a68f-b4470b1c9fe8"
+Parent: "32566f0e-7686-45f1-a12f-d7260bd78bc3"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Feature
+Signature: qTyutRlTL3aamdH4hgQOpHSRpgKMneHGpy2wag0pAAo=
+Modified: 637934829057340644
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Renderings-layout\Renderings\Feature\BuggyBits.yml
+ID: "62fa7791-f92d-475c-926a-3e51284f7cc1"
+Parent: "da61ad50-8fdb-4252-a68f-b4470b1c9fe8"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Feature/BuggyBits
+Signature: VLi6aSZJ4KOeYxjM/Nf9rtmd9BFTLso+uNb5ag2Y7Uk=
+Modified: 637934829057468433
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Renderings-layout\Renderings\Feature\PageContent.yml
+ID: "0ba1a9fd-e55d-4887-a13c-2af0e378c639"
+Parent: "da61ad50-8fdb-4252-a68f-b4470b1c9fe8"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Feature/PageContent
+Signature: DMOkhwrQecHA0jv3x/q1RSLZvmYAAWrgzq2SZ79BrYQ=
+Modified: 637934829057628986
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Renderings-layout\Renderings\Feature\BuggyBits\BuggyBits.yml
+ID: "ceb31b30-3162-4e56-94ed-577da90769d1"
+Parent: "62fa7791-f92d-475c-926a-3e51284f7cc1"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/Feature/BuggyBits/BuggyBits
+Signature: 4qzBJmfNCZftnNsPGxYjX0tw86LPrixWwM8k4QcLil4=
+Modified: 637934829057748610
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Renderings-layout\Renderings.yml
+ID: "32566f0e-7686-45f1-a12f-d7260bd78bc3"
+Parent: "eb2e4ffd-2761-4653-b052-26a64d385227"
+Template: "239f9cf4-e5a0-44e0-b342-0f32cd4c6d8b"
+Path: /sitecore/layout/Renderings
+Signature: 4bb/chHeaqnbDD84efpTXSmKOMNHlA7kUFAjIRBb7ks=
+Modified: 637934829057225470
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Renderings-layout\Renderings\Feature\PageContent\PageContent.yml
+ID: "d16f0b6d-ce68-49e2-a3c0-76a257e13b15"
+Parent: "0ba1a9fd-e55d-4887-a13c-2af0e378c639"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/Feature/PageContent/PageContent
+Signature: +IbXT43bdMHu/K/SdyPFG1Jz+qSIo0MUIuziHNLgUMg=
+Modified: 637934829057847111

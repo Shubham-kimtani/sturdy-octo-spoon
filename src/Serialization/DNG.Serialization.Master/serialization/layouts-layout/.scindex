@@ -1,0 +1,37 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\layouts-layout\Layouts\Project\DNG.yml
+ID: "53c633b4-f16e-4694-862e-61ec650aafca"
+Parent: "da04b275-8838-4a3a-afee-817cf1fdd2eb"
+Template: "93227c5d-4fef-474d-94c0-f252ec8e8219"
+Path: /sitecore/layout/Layouts/Project/DNG
+Signature: A2897hg1nt5QLzNg1mNsIyuv9SfJ4eiMEEKdPTVHI2o=
+Modified: 637934829056779037
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\layouts-layout\Layouts.yml
+ID: "75cc5ce4-8979-4008-9d3c-806477d57619"
+Parent: "eb2e4ffd-2761-4653-b052-26a64d385227"
+Template: "239f9cf4-e5a0-44e0-b342-0f32cd4c6d8b"
+Path: /sitecore/layout/Layouts
+Signature: 68FUPboT40FQVEsgCjJijMsJfwAetJovjfSi72U7flQ=
+Modified: 637934829056509775
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\layouts-layout\Layouts\Project.yml
+ID: "da04b275-8838-4a3a-afee-817cf1fdd2eb"
+Parent: "75cc5ce4-8979-4008-9d3c-806477d57619"
+Template: "93227c5d-4fef-474d-94c0-f252ec8e8219"
+Path: /sitecore/layout/Layouts/Project
+Signature: zlzreAp1T+31LHyR7DGwPBqhlk1/077mnvWdU1s1gz0=
+Modified: 637934829056658951
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\layouts-layout\Layouts\Project\DNG\Main Layout.yml
+ID: "3d853f5d-8778-4bbd-ab7a-03367a797d7c"
+Parent: "53c633b4-f16e-4694-862e-61ec650aafca"
+Template: "3a45a723-64ee-4919-9d41-02fd40fd1466"
+Path: /sitecore/layout/Layouts/Project/DNG/Main Layout
+Signature: 1NWTk8Qdi+d4AvBs4/rsylhNIlDp6IAQo/l++dEXMk4=
+Modified: 637934829056904106

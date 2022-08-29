@@ -1,0 +1,25 @@
+<templateManifest typeOfTemplate="Module">
+  <name>Helix TDS Serialization</name>
+  <description>Helix TDS serialization module.</description>
+  <version>1.0.1</version>
+  <author>HI</author>
+  <sourceFolder>/src</sourceFolder>
+  <saveOnCreate>true</saveOnCreate>
+  <templateEngine type="LaubPlusCo.Foundation.HelixTemplating.TemplateEngine.DefaultHelixTemplateEngine, LaubPlusCo.Foundation.HelixTemplating" />
+  <replacementTokens>
+    <token key="$layerName$" displayName="Create on Layer" default="Serialization" input="Selection" required="true">
+      <option name="Serialization" />
+    </token>
+    <token key="$sitecoreVersion$" displayName="Sitecore version (for Sitecore nuget packages)" default="9.1.0" required="true" input="Selection"
+            validationType="LaubPlusCo.Foundation.HelixTemplating.Tokens.ValidateVersionNumberToken, LaubPlusCo.Foundation.HelixTemplating">
+    </token>
+  </replacementTokens>
+  <projectsToAttach>
+    <projectFile path="/src/Serialization/$specifiedsolutionname$.TDS.Core/$specifiedsolutionname$.TDS.Core.scproj" />
+    <projectFile path="/src/Serialization/$specifiedsolutionname$.TDS.Master/$specifiedsolutionname$.TDS.Master.scproj" />
+    <projectFile path="/src/Serialization/$specifiedsolutionname$.TDS.Master.Content/$specifiedsolutionname$.TDS.Master.Content.scproj" />
+  </projectsToAttach>
+  <ignoreFiles>
+    <file path="/template.manifest.xml" />
+  </ignoreFiles>
+</templateManifest>

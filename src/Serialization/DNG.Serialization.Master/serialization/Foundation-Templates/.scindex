@@ -1,0 +1,46 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Foundation-Templates\Multisite\Site.yml
+ID: "f646954a-7932-479f-b00e-3b3fe324915c"
+Parent: "3c00e8d1-bb02-4479-aae8-48d942d2a8e8"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Foundation/Multisite/Site
+Signature: FRUsJXmiK4j8QPrpd4ZZfc5Rgk1BShIW6Fv2dKGWu2w=
+Modified: 637934829053823909
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Foundation-Templates\Multisite.yml
+ID: "3c00e8d1-bb02-4479-aae8-48d942d2a8e8"
+Parent: "b26bd035-8d0a-4df3-8f67-2de3c7fdd74a"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Foundation/Multisite
+Signature: gQi0GTsyasGvkPr3iwNtOUKgxImDdlTc9PTrMs0e8PE=
+Modified: 637934829053635054
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Foundation-Templates\Multisite\Tenant\__Standard Values.yml
+ID: "39d62e2b-4280-42fc-9601-4809d5505aa0"
+Parent: "93ebcd14-7566-4111-a262-1f91f6b62f86"
+Template: "93ebcd14-7566-4111-a262-1f91f6b62f86"
+Path: /sitecore/templates/Foundation/Multisite/Tenant/__Standard Values
+Signature: dZ+oYoQjcaZbmIBeD3YWz6F0Kep5NNBKtp0AqpWK+eg=
+Modified: 637934829054138159
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Foundation-Templates\Multisite\Site\__Standard Values.yml
+ID: "3f38607f-a434-43cd-844e-635a0792b2c8"
+Parent: "f646954a-7932-479f-b00e-3b3fe324915c"
+Template: "f646954a-7932-479f-b00e-3b3fe324915c"
+Path: /sitecore/templates/Foundation/Multisite/Site/__Standard Values
+Signature: nXZ2WpFSmXvQKQtOH88NK6UGOW44UGZxO45y716IPrs=
+Modified: 637934829054026393
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master\serialization\Foundation-Templates\Multisite\Tenant.yml
+ID: "93ebcd14-7566-4111-a262-1f91f6b62f86"
+Parent: "3c00e8d1-bb02-4479-aae8-48d942d2a8e8"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Foundation/Multisite/Tenant
+Signature: KoFBQ3kBbzBVhvo7Xy3x2BCVEV2ZTfavjxP+Ozb4yrs=
+Modified: 637934829053920174

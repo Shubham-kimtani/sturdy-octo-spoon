@@ -1,0 +1,8 @@
+{
+  "namespace": "DNG.Serialization.Master.Core.Module",
+  "references": [],
+  "items": {
+    "includes": [
+    ]
+  }
+}

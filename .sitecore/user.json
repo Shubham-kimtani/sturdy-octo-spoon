@@ -1,0 +1,15 @@
+{
+  "endpoints": {
+    "default": {
+      "allowWrite": true,
+      "host": "https://av-sitecore-911-cmsc.dev.local/",
+      "authority": "https://av-sitecore-911-cmidentityserver.dev.local",
+      "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IkRDNTAxNzg2MDNDNUM5MjdFMjQ1RDBGQTYwQTkwQjg0ODU0NjFEOENSUzI1NiIsInR5cCI6ImF0K2p3dCIsIng1dCI6IjNGQVhoZ1BGeVNmaVJkRDZZS2tMaElWR0hZdyJ9.eyJuYmYiOjE2NTc4ODY5NjMsImV4cCI6MTY1Nzg5MDU2MywiaXNzIjoiaHR0cHM6Ly9hdi1zaXRlY29yZS05MTEtY21pZGVudGl0eXNlcnZlci5kZXYubG9jYWwiLCJhdWQiOlsic2l0ZWNvcmUucHJvZmlsZS5hcGkiLCJodHRwczovL2F2LXNpdGVjb3JlLTkxMS1jbWlkZW50aXR5c2VydmVyLmRldi5sb2NhbC9yZXNvdXJjZXMiXSwiY2xpZW50X2lkIjoiRGV2aWNlIiwic3ViIjoiOTczZGQ4YTlhODExNGE3Yjg5MWM2OTUwMWNkNjIyNWUiLCJhdXRoX3RpbWUiOjE2NTc4ODY5NTUsImlkcCI6ImxvY2FsIiwibmFtZSI6InNpdGVjb3JlXFxBZG1pbiIsImVtYWlsIjoiIiwiaHR0cDovL3d3dy5zaXRlY29yZS5uZXQvaWRlbnRpdHkvY2xhaW1zL2lzQWRtaW4iOiJUcnVlIiwianRpIjoiQkIyNEUzNTE5MzBFNDlCQjE4RjFGNTQ0NkI3MjZBNTIiLCJzaWQiOiJBNjlDMTdCQkU4NDAxNUZDN0VDQTU5OEE1Q0U2MjFFNiIsImlhdCI6MTY1Nzg4Njk2Mywic2NvcGUiOlsic2l0ZWNvcmUucHJvZmlsZS5hcGkiLCJvZmZsaW5lX2FjY2VzcyJdLCJhbXIiOlsicHdkIl19.VVHKBgehPHUDJ_AWVNSUNonBWvcV5l6hHVx7k2AqKfox8dlITdpMpHE_N1NemzyhARtM9iWLh-80M7Dt15RDDDvipdMHD-tRoG_KLPM2_2i17AMo9E7-CTZ0NATugBj6rFZi-BhuSbazT2sNT2Kg1DKpZrdUUIIHqBOcOjXrK6383Xe9WvwlLirdcN9TRgFtGTwmM97MUaqqI_XB75i2a1_DvFjg5eQhSvc228H8tL4NRC_vaBJycx7wh0O33C7I_9lIxVPgrVyADBOV4ev3mzBPqgRhZ3pt-5aT_WcrUvj9wlE3Qxip36qZQGPWNBU-vFiOt4WnDP-WY1pZIZGo0w",
+      "refreshToken": "88561EECD41899AE7DB0350277FD78776E467270169376496F4200272B1BB3DB",
+      "clientId": "Device",
+      "variables": {},
+      "insecure": false
+    }
+  },
+  "$schema": "./schemas/UserConfiguration.schema.json"
+}

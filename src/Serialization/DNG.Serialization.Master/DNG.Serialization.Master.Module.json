@@ -1,0 +1,77 @@
+{
+  "namespace": "DNG.Serialization.Master.Module",
+  "references": [],
+  "items": {
+    "includes": [
+      {
+        "name": "Foundation-Templates",
+        "path": "/sitecore/templates/Foundation/Multisite",
+        "database": "master",
+        "rules": [
+          {
+            "path": "/Site",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateUpdateAndDelete"
+          },
+          {
+            "path": "/Tenant",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateUpdateAndDelete"
+          },
+          {
+            "path": "*",
+            "scope": "ignored"
+          }
+        ]
+      },
+      {
+        "name": "Project-Templates",
+        "path": "/sitecore/templates/Project",
+        "database": "master",
+        "rules": [
+          {
+            "path": "/DNG",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateUpdateAndDelete"
+          },
+          {
+            "path": "*",
+            "scope": "ignored"
+          }
+        ]
+      },
+      {
+        "name": "layouts-layout",
+        "path": "/sitecore/layout/layouts",
+        "database": "master",
+        "rules": [
+          {
+            "path": "/Project",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateUpdateAndDelete"
+          },
+          {
+            "path": "*",
+            "scope": "ignored"
+          }
+        ]
+      },
+      {
+        "name": "Renderings-layout",
+        "path": "/sitecore/layout/Renderings",
+        "database": "master",
+        "rules": [
+          {
+            "path": "/feature",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateUpdateAndDelete"
+          },
+          {
+            "path": "*",
+            "scope": "ignored"
+          }
+        ]
+      }
+    ]
+  }
+}

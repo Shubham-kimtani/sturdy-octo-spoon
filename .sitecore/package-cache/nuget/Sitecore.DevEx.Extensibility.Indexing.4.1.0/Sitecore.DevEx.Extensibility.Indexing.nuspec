@@ -1,0 +1,15 @@
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>Sitecore.DevEx.Extensibility.Indexing</id>
+    <version>4.1.0</version>
+    <authors>Sitecore Corporation A/S.</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">sitecore.myget.licence.md</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>icon.png</icon>
+    <description>Package Description</description>
+    <releaseNotes>Build: 4.1.0-r00492 GitSHA: 20d636ec773ba9572d30a5ef95f3cb4f5933b063</releaseNotes>
+    <copyright>© 2021 Sitecore Corporation A/S. All rights reserved. Sitecore® is a registered trademark of Sitecore Corporation A/S.</copyright>
+    <tags>Sitecore</tags>
+  </metadata>
+</package>

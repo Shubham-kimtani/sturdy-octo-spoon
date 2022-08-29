@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {96DAA510-C260-4F07-9A87-DE8EF44689DD}
+database: master
+path: /sitecore/content/DevOpsNextGen/DNGGlobal/Home
+parent: {7B90A77C-D0CF-4B47-B8E5-18C6202611F5}
+name: Home
+master: {00000000-0000-0000-0000-000000000000}
+template: {6F36B575-538B-4C24-A95A-BF6B72F3420F}
+templatekey: Home
+
+----field----
+field: {DBBBFB23-FEE7-4D81-881F-7A8717ADCD7C}
+name: ReleaseNumber
+key: releasenumber
+content-length: 4
+
+15.0
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 198
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{073D5753-A5F4-4A48-B977-4A2A51AA4421}" s:id="{D16F0B6D-CE68-49E2-A3C0-76A257E13B15}" s:ph="body" /></d></r>
+----version----
+language: en
+version: 1
+revision: 9efe5319-c656-4ddf-b718-748cf813be56
+
+----field----
+field: {49095396-5900-4FCA-BEA9-E304285EA1E4}
+name: Page Title
+key: page title
+content-length: 15
+
+Devops Next Gen
+----field----
+field: {3B84F0F9-4BA7-4BAC-976F-5570736C06DA}
+name: Page Content
+key: page content
+content-length: 133
+
+<p><img alt="" height="500" width="500" src="-/media/72F0205686FD424B94DDBD5963E89E59.ashx" /></p>
+<p>Welcome to Devops Next Gen!</p>
+----field----
+field: {CFDA20BE-97A5-43AD-A225-F9D077AD4E32}
+name: Page SubDescription
+key: page subdescription
+content-length: 28
+
+This is Page sub Description
+----field----
+field: {AB365E08-9498-47EF-ADDA-043B08398762}
+name: DemoForARM
+key: demoforarm
+content-length: 4
+
+15.0
+----field----
+field: {4F8478C3-CD6D-4A63-8577-243470AD5A6D}
+name: DeploymentNumber
+key: deploymentnumber
+content-length: 3
+
+1.0
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190725T004330Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9efe5319-c656-4ddf-b718-748cf813be56
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200728T032822Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

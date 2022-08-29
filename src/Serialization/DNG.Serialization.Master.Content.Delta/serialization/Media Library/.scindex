@@ -1,0 +1,37 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master.Content.Delta\serialization\Media Library\Images\DNG.yml
+ID: "0a6bbed1-b34b-4d58-8b17-223c7a0ad6a5"
+Parent: "15451229-7534-44ef-815d-d93d6170bfcb"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Images/DNG
+Signature: 5igq6dFQWGcIRbY1fRp0HYQJ8/epbdnkyBZHUXvgJNI=
+Modified: 637934824848179463
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master.Content.Delta\serialization\Media Library\Images.yml
+ID: "15451229-7534-44ef-815d-d93d6170bfcb"
+Parent: "3d6658d8-a0bf-4e75-b3e2-d050fabcf4e1"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Images
+Signature: 5rNzPXL8ZU7B2oT4Z4Xr/qSMCcsa1yJ6ddfKJXM219I=
+Modified: 637934824848057980
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master.Content.Delta\serialization\Media Library\Images\DNG\iisstart.yml
+ID: "736fae33-d704-48a5-82cd-ffb25d6664a8"
+Parent: "0a6bbed1-b34b-4d58-8b17-223c7a0ad6a5"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Images/DNG/iisstart
+Signature: v2Y9v2YmgwlMnwZfp2B7SkF/S3boGL7/VXwndxLoK8k=
+Modified: 637934824848461999
+---
+File: |
+  C:\project\dng-orange\src\Serialization\DNG.Serialization.Master.Content.Delta\serialization\Media Library\Images\DNG\devops.yml
+ID: "72f02056-86fd-424b-94dd-bd5963e89e59"
+Parent: "0a6bbed1-b34b-4d58-8b17-223c7a0ad6a5"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Images/DNG/devops
+Signature: frmTpkh+jU3i1uDvRehwbW5wJf9BsABpmDLIYWW2jHo=
+Modified: 637934824848309395

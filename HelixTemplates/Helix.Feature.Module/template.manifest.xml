@@ -1,0 +1,29 @@
+<templateManifest typeOfTemplate="Module">
+  <name>Helix Feature</name>
+  <description>An empty Helix module.</description>
+  <version>1.0.1</version>
+  <author>Anders Laub</author>
+  <sourceFolder>/src</sourceFolder>
+  <saveOnCreate>true</saveOnCreate>
+  <templateEngine type="LaubPlusCo.Foundation.HelixTemplating.TemplateEngine.DefaultHelixTemplateEngine, LaubPlusCo.Foundation.HelixTemplating" />
+  <replacementTokens>
+    <token key="$layerName$" displayName="Create on Layer" default="Feature" input="Selection" required="true">
+      <option name="Feature" />
+    </token>
+    <token key="$moduleName$" displayName="Module name" default="$safeprojectname$" input="Text" required="true"
+           validationType="LaubPlusCo.Foundation.HelixTemplating.Tokens.ValidateModuleNameToken, LaubPlusCo.Foundation.HelixTemplating" />
+
+    <token key="$moduleNamespace$" displayName="Module namespace" required="true" default="$specifiedsolutionname$.$layerName$.$moduleName$" input="Text"
+           suggestType="LaubPlusCo.Foundation.HelixTemplating.Tokens.SuggestNamespaceToken, LaubPlusCo.Foundation.HelixTemplating" />
+
+    <token key="$sitecoreVersion$" displayName="Sitecore version (for Sitecore nuget packages)" default="9.1.0" required="true" input="Selection"
+             validationType="LaubPlusCo.Foundation.HelixTemplating.Tokens.ValidateVersionNumberToken, LaubPlusCo.Foundation.HelixTemplating">
+    </token>
+  </replacementTokens>
+  <projectsToAttach>
+    <projectFile path="/src/$layerName$/$modulename$/code/$moduleNamespace$.csproj" />
+  </projectsToAttach>
+  <ignoreFiles>
+    <file path="/template.manifest.xml" />
+  </ignoreFiles>
+</templateManifest>

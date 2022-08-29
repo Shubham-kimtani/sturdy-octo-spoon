@@ -1,0 +1,57 @@
+﻿---
+ID: "96daa510-c260-4f07-9a87-de8ef44689dd"
+Parent: "7b90a77c-d0cf-4b47-b8e5-18c6202611f5"
+Template: "6f36b575-538b-4c24-a95a-bf6b72f3420f"
+Path: /sitecore/content/DevOpsNextGen/DNGGlobal/Home
+SharedFields:
+- ID: "dbbbfb23-fee7-4d81-881f-7a8717adcd7c"
+  Hint: ReleaseNumber
+  Value: 15.0
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{073D5753-A5F4-4A48-B977-4A2A51AA4421}"
+          s:id="{D16F0B6D-CE68-49E2-A3C0-76A257E13B15}"
+          s:ph="body" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190725T004330Z
+    - ID: "3b84f0f9-4ba7-4bac-976f-5570736c06da"
+      Hint: Page Content
+      Value: |
+        <p><img alt="" height="500" width="500" src="-/media/72F0205686FD424B94DDBD5963E89E59.ashx" /></p>
+        <p>Welcome to Devops Next Gen!</p>
+    - ID: "49095396-5900-4fca-bea9-e304285ea1e4"
+      Hint: Page Title
+      Value: Devops Next Gen
+    - ID: "4f8478c3-cd6d-4a63-8577-243470ad5a6d"
+      Hint: DeploymentNumber
+      Value: 1.0
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9efe5319-c656-4ddf-b718-748cf813be56"
+    - ID: "ab365e08-9498-47ef-adda-043b08398762"
+      Hint: DemoForARM
+      Value: 15.0
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "cfda20be-97a5-43ad-a225-f9d077ad4e32"
+      Hint: Page SubDescription
+      Value: This is Page sub Description
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200728T032822Z
